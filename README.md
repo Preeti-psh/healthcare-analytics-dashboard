@@ -6,7 +6,7 @@ Interactive Tableau dashboard analyzing hospital readmissions data for healthcar
 
 ## 📊 Interactive Tableau Dashboard for Hospital Quality Analysis
 
-> **📈 Live Dashboard:** (....................) 
+> **📈 Live Dashboard:** (https://public.tableau.com/app/profile/preeti.sharma4017/viz/Hospital_analytics_dashboard/final_dashboard?publish=yes) 
 > **📊 Data Source:** CMS Hospital Readmissions Reduction Program FY 2025  
 
 ---
@@ -169,7 +169,7 @@ healthcare-analytics-dashboard/
 ## 🎬 **Dashboard Navigation**
 
 ### **📱 Quick Start**
-1. **Visit the live dashboard:** [Tableau Public Link](https://public.tableau.com/views/YourLink)
+1. **Visit the live dashboard:** (https://public.tableau.com/app/profile/preeti.sharma4017/viz/Hospital_analytics_dashboard/final_dashboard?publish=yes)
 2. **Try the interactions:** Click states, change conditions, filter performance
 3. **Explore insights:** Identify top performers and improvement opportunities
 
