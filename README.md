@@ -99,10 +99,6 @@ healthcare-analytics-dashboard/
 │   └── 📂 cleaned/               # Processed CSV files for Tableau
 ├── 📂 scripts/                   # Python data processing
 │   ├── 🐍 data_cleaning.py       # Main cleaning pipeline
-│   └── 📋 requirements.txt       # Python dependencies
-├── 📂 tableau/                   # Dashboard files & screenshots
-│   ├── 📊 dashboard.twbx         # Tableau workbook
-│   └── 📂 screenshots/           # Dashboard images
 ```
 
 ---
