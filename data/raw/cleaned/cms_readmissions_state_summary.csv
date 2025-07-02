@@ -1,0 +1,52 @@
+State,Region,Avg_ERR,Total_Discharges,Total_Readmissions,Hospital_Count,State_Readmission_Rate,Performance_Rating
+AK,West,0.9877,4031.0,584.0,8,14.49,Average
+AL,South,1.0099,35359.0,5936.0,81,16.79,Average
+AR,South,1.0048,31207.0,5042.0,44,16.16,Average
+AZ,West,0.9988,43529.0,6607.0,64,15.18,Average
+CA,West,1.0104,176090.0,31138.0,279,17.68,Average
+CO,West,0.9737,17494.0,2435.0,51,13.92,Average
+CT,Northeast,1.0027,29613.0,5102.0,28,17.23,Average
+DC,Northeast,1.0197,5868.0,1051.0,6,17.91,Average
+DE,Northeast,0.9582,11814.0,1858.0,6,15.73,Above Average
+FL,South,1.0193,194338.0,34375.0,167,17.69,Average
+GA,South,1.008,60644.0,10627.0,96,17.52,Average
+HI,West,0.9957,5074.0,790.0,12,15.57,Average
+IA,Midwest,0.9679,24155.0,3474.0,30,14.38,Above Average
+ID,West,0.9384,6972.0,779.0,16,11.17,Above Average
+IL,Midwest,1.0201,117243.0,20863.0,116,17.79,Below Average
+IN,Midwest,0.9975,62294.0,10439.0,81,16.76,Average
+KS,Midwest,0.9606,26947.0,3570.0,44,13.25,Above Average
+KY,South,1.0107,40611.0,7257.0,61,17.87,Average
+LA,South,1.0006,30808.0,5294.0,81,17.18,Average
+MA,Northeast,1.0409,89270.0,15316.0,55,17.16,Below Average
+MD,Northeast,0.9866,53546.0,9057.0,43,16.91,Average
+ME,Northeast,0.9585,8219.0,1124.0,16,13.68,Above Average
+MI,Midwest,1.0075,71981.0,13382.0,91,18.59,Average
+MN,Midwest,0.9785,26334.0,3820.0,46,14.51,Average
+MO,Midwest,1.0048,51843.0,8873.0,65,17.12,Average
+MS,South,1.0104,30072.0,5310.0,58,17.66,Average
+MT,West,0.9572,7481.0,948.0,11,12.67,Above Average
+NC,South,1.0001,79683.0,12619.0,82,15.84,Average
+ND,Midwest,0.9429,7711.0,1114.0,7,14.45,Above Average
+NE,Midwest,0.968,12920.0,1867.0,25,14.45,Above Average
+NH,Northeast,1.0055,13810.0,2198.0,13,15.92,Average
+NJ,Northeast,1.0278,80445.0,14377.0,61,17.87,Below Average
+NM,West,0.9929,8830.0,1235.0,26,13.99,Average
+NV,West,1.0189,17323.0,3146.0,22,18.16,Average
+NY,Northeast,1.0084,137889.0,23362.0,132,16.94,Average
+OH,Midwest,1.0048,88806.0,15668.0,119,17.64,Average
+OK,South,0.9957,36340.0,5520.0,76,15.19,Average
+OR,West,0.9621,16058.0,2188.0,33,13.63,Above Average
+PA,Northeast,1.0034,107247.0,17589.0,134,16.4,Average
+RI,Northeast,0.9915,8235.0,1273.0,10,15.46,Average
+SC,South,1.006,42598.0,6989.0,51,16.41,Average
+SD,Midwest,0.9429,8981.0,928.0,18,10.33,Above Average
+TN,South,1.0014,59296.0,9761.0,80,16.46,Average
+TX,South,1.0049,158053.0,26392.0,284,16.7,Average
+UT,West,0.9562,8341.0,949.0,32,11.38,Above Average
+VA,South,0.9948,76228.0,12570.0,71,16.49,Average
+VT,Northeast,1.0117,4782.0,801.0,6,16.75,Average
+WA,West,0.9651,38795.0,5796.0,46,14.94,Above Average
+WI,Midwest,0.9771,31107.0,4921.0,65,15.82,Average
+WV,South,1.0157,19313.0,3633.0,25,18.81,Average
+WY,West,0.9715,3483.0,469.0,11,13.47,Average

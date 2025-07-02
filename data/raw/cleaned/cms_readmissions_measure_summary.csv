@@ -1,0 +1,7 @@
+index,Measure_Name,Measure_Name_Clean,Avg_ERR,Std_ERR,Hospital_Count,Total_Discharges,Total_Readmissions,National_Readmission_Rate,Risk_Level,CMS_Target_ERR
+0,READM-30-AMI-HRRP,Acute Myocardial Infarction (Heart Attack),1.0019,0.0713,1763,282867.0,38390.0,13.57,Medium,1.0
+1,READM-30-CABG-HRRP,Coronary Artery Bypass Graft (CABG),1.0007,0.0802,883,68913.0,7653.0,11.11,Low,1.0
+2,READM-30-COPD-HRRP,COPD (Chronic Obstructive Pulmonary Disease),1.0017,0.0537,2324,219009.0,42735.0,19.51,High,1.0
+3,READM-30-HF-HRRP,Heart Failure,1.0012,0.0667,2638,875300.0,172833.0,19.75,High,1.0
+4,READM-30-HIP-KNEE-HRRP,READM-30-HIP-KNEE-HRRP,1.0038,0.144,1588,142618.0,6151.0,4.31,Low,1.0
+5,READM-30-PN-HRRP,Pneumonia,1.0012,0.0646,2731,740404.0,122654.0,16.57,Medium,1.0
